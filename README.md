@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @geatdaboss
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning css
-- 💞️ I’m looking to collaborate on 
+- 👋 Hi, I’m @geatspahiu
+- 👀 I’m interested in fullstack development
+- 🌱 I’m currently learning reactjs
 
 <!---
 geatdaboss/geatdaboss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
